@@ -1,3 +1,3 @@
 # Node Debug
 
-[Node.js 调试指南](https://whoyoung.me/post/2020-06/2020/node-debug/)演示项目
+[Node.js 调试指南](https://whoyoung.me/p/node.js-%E8%B0%83%E8%AF%95%E6%8C%87%E5%8D%97/)演示项目
